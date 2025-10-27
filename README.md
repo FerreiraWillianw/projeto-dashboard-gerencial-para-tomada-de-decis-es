@@ -31,4 +31,6 @@ O dashboard permite a análise de métricas cruciais, como:
 
 ### 🖼️ Preview do Dashboard
 
-![Dashboard de Análise Financeira](https://raw.githubusercontent.com/FerreiraWillianw/projeto-dashboard-gerencial-para-tomada-de-decis-es/main/print_dashboardfinanceiro.png)
+![Dashboard de Análise Financeira](https://github.com/FerreiraWillianw/projeto-dashboard-gerencial-para-tomada-de-decis-es/blob/main/print_dashboardfinanceiro.png)
+
+
